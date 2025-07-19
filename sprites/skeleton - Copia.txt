@@ -1,0 +1,58 @@
+[
+  {
+    "name": "hips",
+    "parent": null,
+    "anchor": [
+      0.5,
+      0.5
+    ]
+  },
+  {
+    "name": "chest",
+    "parent": "hips",
+    "anchor": [
+      0.5,
+      0.9
+    ]
+  },
+  {
+    "name": "head",
+    "parent": "chest",
+    "anchor": [
+      0.5,
+      0.9
+    ]
+  },
+  {
+    "name": "left_arm",
+    "parent": "chest",
+    "anchor": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "name": "right_arm",
+    "parent": "chest",
+    "anchor": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "name": "left_leg",
+    "parent": "hips",
+    "anchor": [
+      0.5,
+      0.1
+    ]
+  },
+  {
+    "name": "right_leg",
+    "parent": "hips",
+    "anchor": [
+      0.5,
+      0.1
+    ]
+  }
+]
