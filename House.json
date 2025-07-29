@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "23.png",
+	"frame": {"x":1,"y":1,"w":1536,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1536,"h":1024},
+	"sourceSize": {"w":1536,"h":1024}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "House.png",
+	"format": "RGBA8888",
+	"size": {"w":1538,"h":1026},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e921eef226de378467e049e2f2fe85e0:d9694f1fa25d8ad3a3d5d994482b53e9:c7d0d15f55f34c85f84c6736884cf76c$"
+}
+}
